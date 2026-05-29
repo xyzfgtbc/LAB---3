@@ -1,0 +1,22 @@
+.topbar-appBar {
+  height: 64px;
+  justify-content: center;
+}
+
+.topbar-toolbar {
+  gap: 24px;
+}
+
+.topbar-name {
+  font-weight: 700;
+  min-width: 220px;
+}
+
+.topbar-context {
+  flex: 1;
+  text-align: center;
+}
+
+.topbar-advanced {
+  white-space: nowrap;
+}
